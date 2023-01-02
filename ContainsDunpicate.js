@@ -23,8 +23,22 @@ Output: true
 
 /**
  * @param {number[]} nums
- * @return {boolean}
+ * @param {number} val
+ * @return {number}
  */
-var containsDuplicate = function (nums) {
-	return !(nums.length === [...new Set(nums)].length);
+var removeElement = function (nums, val) {
+	for (let i = 0; i < nums.length; i++) {
+		if (nums[i] === val) {
+			nums.splice(i, 1);
+			i--;
+		}
+	}
+	return nums.length;
+};
+
+var removeElement = function (nums, val) {
+	let arr = nums.filter((item) => item !== val);
+	nums.length = 0;
+	nums.push(...arr);
+	return nums.length;
 };
