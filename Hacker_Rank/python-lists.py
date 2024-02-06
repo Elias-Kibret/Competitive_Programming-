@@ -1,4 +1,43 @@
-    
+
+
+if __name__ == '__main__':
+    result=[]
+    N = int(input())
+    for n in range(N):
+        command=input().split()  # insert 0 5  --["insert","0","5"]
+        if command[0]=="insert":
+            result.insert(int(command[2]), int(command[1]))
+        # append 
+        elif command[0]=="append":
+            result.append(int(command[1]))
+        elif command[0]=="print":
+            print(result)
+        elif command[0]=="remove":
+            if int(command[1]) in result:
+              result.remove(int(command[1]))
+                
+        elif command[0]=="sort":
+            result.sort()
+        elif command[0]=="pop":
+            result.pop()
+        
+        elif command[0]=='reverse':
+            result.reverse()
+                    
+                        #   Elias Kibret
+
+
+
+
+
+
+
+
+
+
+
+
+
 if __name__ == '__main__':
     N = int(input())
     m=list()
