@@ -1,6 +1,5 @@
 # https://leetcode.com/problems/frequency-tracker/description/
 
-
 class FrequencyTracker(object):
     def __init__(self) -> None:
         self.f = Counter()
