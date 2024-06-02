@@ -6,6 +6,7 @@ function maxVowels(s: string, k: number): number {
     for (let i=0; i<k;i++){
         if(mySet.has(s[i]))current_count++
     }
+    if(current_count==k)return k
     max_count=current_count
     for(let right=k;right<s.length;right++){
         if(mySet.has(s[right])){
@@ -14,6 +15,7 @@ function maxVowels(s: string, k: number): number {
         if(mySet.has(s[right-k])){
             current_count--
         }
+        if(current_count==k)return k
         max_count=Math.max(max_count,current_count)
     }
     return max_count
