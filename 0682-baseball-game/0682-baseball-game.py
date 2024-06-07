@@ -3,16 +3,26 @@ class Solution:
         
         result=[]
 
+        for operation in operations:
+            match operation:
 
-        for op in operations:
-            if op=="+" and len(result)>=2:
-                
-                result.append((int(result[-1])+int(result[-2])))
-            elif op=="D" and len(result)>0:
-                result.append((int(result[-1])*2))
-            elif op=="C" and len(result)>0:
-                result.pop()
-            else:
-                result.append(int(op))
-            print(result)
+                case "+":
+                    if result:
+                         result.append(result[-1]+result[-2])
+                   
+                case "D":
+                    if result:
+                        result.append(result[-1]*2)
+                    
+                case "C":
+                    if result:
+                        result.pop()
+                    
+                case _:
+                    result.append(int(operation))
         return sum(result)
+  
+
+
+
+        
