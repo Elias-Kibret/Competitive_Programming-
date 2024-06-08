@@ -9,6 +9,58 @@ class Solution:
         #             return True
         # return False
 
+
+        mod_map={0:-1}
+
+        prefix_sum=0
+
+
+        for i,n in enumerate(nums):
+            prefix_sum+=n
+
+            rem=prefix_sum%k
+
+            if rem not in mod_map:
+                mod_map[rem]=i
+            elif i-mod_map[rem]>1:
+                return True
+        return False
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         mod_map={0:-1}
 
         prefix_sum=0
