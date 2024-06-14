@@ -13,7 +13,7 @@ class Solution:
                 
             r+=1
             l+=1
-        print(nums)
+        
         return count
             
 
