@@ -9,16 +9,11 @@
  * }
  */
 class Solution {
-    public int getDecimalValue(ListNode head) {
-        int result=0;
-        ListNode current=head;
-
-        while(current!=null){
-            result=result<<1;
-            result=result | current.val;
-            current=current.next;
-        }
-        return result;
-        
+    public int getDecimalValue(ListNode head) {     
+        int ans = 0;
+        for(ListNode temp =  head;temp!=null;temp=temp.next){
+            ans =  (ans<<1)|temp.val;
+        }                
+        return ans;        
     }
 }
