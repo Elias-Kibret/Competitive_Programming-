@@ -12,10 +12,7 @@ class Solution:
         
         while current is not None:
             
-            result=result<<1
-
-            result=result | current.val
-           
+            result=result<<1 | current.val
             current=current.next
    
         return result
