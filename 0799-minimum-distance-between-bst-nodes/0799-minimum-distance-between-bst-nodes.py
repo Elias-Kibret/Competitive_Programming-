@@ -9,12 +9,11 @@ class Solution:
         ls=[]
 
         def helper(node):
-            if node is None:
-                return
-            helper(node.left)
-            ls.append(node.val)
-            helper(node.right)
-        helper(root)
+            if not node:
+                return []
+            return helper(node.left)+[node.val]+helper(node.right)
+          
+        ls=helper(root)
         ans=float("inf")
 
         for i in range(1,len(ls)):
