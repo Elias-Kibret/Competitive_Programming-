@@ -3,17 +3,17 @@
  * @return {void} Do not return anything, modify nums in-place instead.
  */
 var moveZeroes = function(nums) {
-   let lastNonZeroFoundAt = 0;
-    
-    // If the current element is not 0, then we need to append it just in front of the last non 0 element we found. 
-    for (let i = 0; i < nums.length; i++) {
-        if (nums[i] !== 0) {
-            nums[lastNonZeroFoundAt] = nums[i];
-            lastNonZeroFoundAt++;
+    let l=0;
+    for(let i in nums){
+        if(nums[l]==0 && nums[i]!=0){
+            let temp=nums[l]
+            nums[l]=nums[i]
+            nums[i]=temp
+            l++;
         }
-    }
-        for (let i = lastNonZeroFoundAt; i < nums.length; i++) {
-        nums[i] = 0;
+        if(nums[l]!=0){
+            l++
+        }
     }
     
 };
