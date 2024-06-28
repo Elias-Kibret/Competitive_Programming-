@@ -1,10 +1,14 @@
 class Solution:
     def firstMissingPositive(self, nums: List[int]) -> int:
-        nums.sort()
-        first=1
-
-        for num in nums:
-            if num==first:
-                first+=1
-        return first
+        mp={}
+        
+        for index,val in enumerate(nums):
+            mp[val]=index
+        mx=max(nums)
+        
+        for val in range(1,mx):
+            if val not in mp:
+                return val
+            
+        return mx+1 if mx>=0 else 1
         
