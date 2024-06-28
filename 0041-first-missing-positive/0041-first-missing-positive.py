@@ -12,12 +12,10 @@ class Solution:
         #Find max
 
         mx=max(nums)
-        if mx<=0:
-            return 1
         
         for val in range(1,mx):
             if val not in mp:
                 return val
             
-        return mx+1
+        return mx+1 if mx>=0 else 1
         
