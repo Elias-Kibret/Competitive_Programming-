@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0041-first-missing-positive) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
