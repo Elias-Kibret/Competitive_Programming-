@@ -3,18 +3,16 @@ class Solution {
         if(x<0){
             return false;
         }
-        String X=""+x;
-        int right=X.length()-1;
-        int left=0;
-        while (left<=right){
-            if(X.charAt(left)!=X.charAt(right)){
-                return false;
-            }
-            left++;
-            right--;
+        long reversed=0;
+        long temp=x;
 
+        while(temp!=0){
+            int digit=(int)(temp%10);
+            reversed=reversed*10+digit;
+            temp/=10;
         }
-        return true;
+        return reversed==x;
+        
     
     }
 }
