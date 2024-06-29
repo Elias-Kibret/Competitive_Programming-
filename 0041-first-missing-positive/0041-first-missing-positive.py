@@ -5,17 +5,17 @@ class Solution:
         # the if there is a missing number in hashmap I will return that number
         # else I will return max number plus 1 which is the will be the next postive number
         # one edge I have to make sure that the max number is postive number 
-        mp={} 
-        for index,val in enumerate(nums):
-            mp[val]=index
+    
+        mp=set() 
+        for val in nums:
+            if val>0:
+                mp.add(val)
+        first=1
 
-        #Find max
-
-        mx=max(nums)
-        
-        for val in range(1,mx):
-            if val not in mp:
-                return val
+        while first in mp:
+            first+=1
+        return first
             
-        return mx+1 if mx>=0 else 1
+        
+ 
         
