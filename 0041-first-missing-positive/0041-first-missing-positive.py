@@ -10,11 +10,10 @@ class Solution:
         for val in nums:
             if val>0:
                 mp.add(val)
-        first=1
-
-        while first in mp:
-            first+=1
-        return first
+        missingPositive=1
+        while missingPositive in mp:
+            missingPositive+=1
+        return missingPositive
             
         
  
