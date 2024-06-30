@@ -1,12 +1,16 @@
 class Solution:
     def reverse(self, x: int) -> int:
-        num=x if x>0 else-1*x
-        temp=num
-        reverse=0
-        while temp!=0:
-            reverse=reverse*10+temp%10
-            temp//=10
-        if reverse >(2**31)-1 or reverse <-2**31:
-            return 0
-        return reverse if num==x else -reverse
+        sign = 1 if x > 0 else -1
+        num = abs(x)
+        reverse = 0
         
+        while num != 0:
+            reverse = reverse * 10 + num % 10
+            num //= 10
+        
+        reverse *= sign
+        
+        if reverse > (2**31) - 1 or reverse < -2**31:
+            return 0
+        
+        return reverse
