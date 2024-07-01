@@ -1,9 +1,7 @@
 class Solution {
     public int strStr(String haystack, String needle) {
-      
-
-        int lenH = haystack.length();
-        int lenN = needle.length();
+    
+        int lenH = haystack.length(),lenN = needle.length();
 
         
         if (lenN > lenH) {
