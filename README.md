@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0041-first-missing-positive) |
+| [1293-three-consecutive-odds](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1293-three-consecutive-odds) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
