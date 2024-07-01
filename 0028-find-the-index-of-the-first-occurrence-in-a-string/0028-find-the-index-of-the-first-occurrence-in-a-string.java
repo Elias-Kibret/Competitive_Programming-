@@ -1,8 +1,6 @@
 class Solution {
     public int strStr(String haystack, String needle) {
-        if (needle=="") {
-            return 0;
-        }
+      
 
         int lenH = haystack.length();
         int lenN = needle.length();
