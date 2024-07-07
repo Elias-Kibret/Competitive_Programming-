@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0202-happy-number) |
+| [1642-water-bottles](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1642-water-bottles) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0874-backspace-string-compare) |
+| [1642-water-bottles](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1642-water-bottles) |
 ## Sorting
 |  |
 | ------- |
