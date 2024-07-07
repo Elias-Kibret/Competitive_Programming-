@@ -5,5 +5,5 @@ class Solution:
         for val in s:
             if val==letter:
                 count+=1
-        return math.floor((count)/len(s)*100)
+        return int(count/len(s)*100)
         
