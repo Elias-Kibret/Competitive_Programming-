@@ -1,29 +1,31 @@
-class Solution {
+public class Solution {
     public int romanToInt(String s) {
-        
-        Map<Character,Integer> romanMap=new HashMap<>();
+        // Map to store Roman numerals and their corresponding integer values
+        Map<Character, Integer> romanMap = new HashMap<>();
+        romanMap.put('I', 1);
+        romanMap.put('V', 5);
+        romanMap.put('X', 10);
+        romanMap.put('L', 50);
+        romanMap.put('C', 100);
+        romanMap.put('D', 500);
+        romanMap.put('M', 1000);
 
-        romanMap.put('I',1);
-        romanMap.put('V',5);
-        romanMap.put('X',10);
-        romanMap.put('L',50);
-        romanMap.put('C',100);
-        romanMap.put('D',500);
-        romanMap.put('M',1000);
+        int total = 0;
+        int prevValue = 0;
 
-        int i=0;
-        int value=0;
-
-        while(i<s.length()){
-            if(i+1<s.length() && romanMap.get(s.charAt(i+1))>romanMap.get(s.charAt(i))){
-                value+=romanMap.get(s.charAt(i+1))-romanMap.get(s.charAt(i));
-                i+=2;
+        // Traverse the string from right to left
+        for (int i = s.length() - 1; i >= 0; i--) {
+            int value = romanMap.get(s.charAt(i));
+            if (value < prevValue) {
+                total -= value;
+            } else {
+                total += value;
             }
-            else{
-                value+=romanMap.get(s.charAt(i));
-                i++;
-            }
+            prevValue = value;
         }
-        return value;
+
+        return total;
     }
+
+ 
 }
