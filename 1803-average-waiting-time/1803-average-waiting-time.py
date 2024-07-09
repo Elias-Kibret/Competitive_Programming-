@@ -1,15 +1,12 @@
 class Solution:
     def averageWaitingTime(self, customers: List[List[int]]) -> float:
-
-        timeChefAt=0
-        waitingTime=0
-
-        for customer in customers:
-            arrival, cooking=customer
-
-            if timeChefAt<arrival:
-                timeChefAt=arrival
-            waitingTime+=timeChefAt+cooking-arrival
-            timeChefAt+=cooking
-        return waitingTime/len(customers)
+        N = len(customers)
         
+        total = 0
+        current = 0
+        for a, t in customers:
+            # if a comes after, then update current
+            current = max(a, current)
+            total += t + (current - a)
+            current += t
+        return total / N
