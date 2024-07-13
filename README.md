@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0983-validate-stack-sequences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0983-validate-stack-sequences) |
 | [1293-three-consecutive-odds](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1293-three-consecutive-odds) |
 | [1720-crawler-log-folder](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1803-average-waiting-time) |
@@ -70,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0402-remove-k-digits](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0402-remove-k-digits) |
 | [0874-backspace-string-compare](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0874-backspace-string-compare) |
+| [0983-validate-stack-sequences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0983-validate-stack-sequences) |
 | [1720-crawler-log-folder](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0874-backspace-string-compare) |
+| [0983-validate-stack-sequences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0983-validate-stack-sequences) |
 | [1642-water-bottles](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1803-average-waiting-time) |
 | [2470-removing-stars-from-a-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2470-removing-stars-from-a-string) |
