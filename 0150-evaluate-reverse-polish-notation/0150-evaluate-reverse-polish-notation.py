@@ -1,23 +1,16 @@
 class Solution:
-    def resolves(self, a, b, Operator):
-        if Operator == '+':
-            return a + b
-        elif Operator == '-':
-            return a - b
-        elif Operator == '*':
-            return a * b
-        return int(a / b)
-
-    def evalRPN(self, tokens):
+    def evalRPN(self, tokens: list[str]) -> int:                #  Ex:  tokens = ["4","13","5","/","+"]
         stack = []
-        for token in tokens:
-            if len(token) == 1 and ord(token) < 48:
-                integer2 = stack.pop()
-                integer1 = stack.pop()
-                operator = token
-                resolved_ans = self.resolves(integer1, integer2, operator)
-                stack.append(resolved_ans)
-            else:
-                stack.append(int(token))
-        return stack.pop()
+                                                                #      t     operation    stack
+        for t in tokens:                                        #    –––––   –––––––––    ––––––––– 
+            if t not in '/+-*':                                 #      4                    [4]
+                stack.append(int(t))                            #     13                    [4,13]
+                                                                #      5                    [4,13,5]
+            else:                                               #      /     13 / 5 = 2     [4,2]
+                num = stack.pop()                               #      +      4 + 2 = 6     [6]
+                if   t == '+': stack[-1]+=  num
+                elif t == '-': stack[-1]-=  num
+                elif t == '*': stack[-1]*=  num
+                else         : stack[-1]= int(stack[-1]/num)    
 
+        return stack[0]
