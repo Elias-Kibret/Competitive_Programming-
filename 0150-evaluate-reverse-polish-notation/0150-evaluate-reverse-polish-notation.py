@@ -13,4 +13,4 @@ class Solution:
                 elif t == '*': stack[-1]*=  num
                 else         : stack[-1]= int(stack[-1]/num)    
 
-        return stack[0]
+        return stack[-1]
