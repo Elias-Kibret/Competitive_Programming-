@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0151-reverse-words-in-a-string) |
+| [0402-remove-k-digits](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0402-remove-k-digits) |
 | [0874-backspace-string-compare](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0874-backspace-string-compare) |
 | [1720-crawler-log-folder](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1720-crawler-log-folder) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0402-remove-k-digits) |
 | [0874-backspace-string-compare](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0874-backspace-string-compare) |
 | [1720-crawler-log-folder](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1720-crawler-log-folder) |
 ## Simulation
@@ -92,4 +94,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
