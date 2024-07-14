@@ -5,7 +5,7 @@ class Solution:
         for elem in path:
             if dirOrFiles and elem == "..":
                 dirOrFiles.pop()
-            elif elem not in [".", "", ".."]:
+            elif elem not in {".", "", ".."}:
                 dirOrFiles.append(elem)
                 
         return "/" + "/".join(dirOrFiles)
