@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1803-average-waiting-time) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3194-find-words-containing-character](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2365-percentage-of-letter-in-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2365-percentage-of-letter-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2470-removing-stars-from-a-string) |
+| [3194-find-words-containing-character](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3194-find-words-containing-character) |
 ## String Matching
 |  |
 | ------- |
