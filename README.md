@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0202-happy-number) |
+| [0441-arranging-coins](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0441-arranging-coins) |
 | [1642-water-bottles](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1642-water-bottles) |
 ## Two Pointers
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0035-search-insert-position) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
