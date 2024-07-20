@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0202-happy-number) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0374-guess-number-higher-or-lower) |
