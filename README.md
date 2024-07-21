@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0792-binary-search) |
 | [0983-validate-stack-sequences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0983-validate-stack-sequences) |
 | [1019-squares-of-a-sorted-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1019-squares-of-a-sorted-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
