@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0041-first-missing-positive) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0189-rotate-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0374-guess-number-higher-or-lower) |
