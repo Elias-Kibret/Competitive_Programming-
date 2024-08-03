@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0217-contains-duplicate) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0234-palindrome-linked-list) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
