@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0234-palindrome-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
