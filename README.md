@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0189-rotate-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0029-divide-two-integers) |
 | [2427-first-letter-to-appear-twice](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2427-first-letter-to-appear-twice) |
 ## Counting
 |  |
