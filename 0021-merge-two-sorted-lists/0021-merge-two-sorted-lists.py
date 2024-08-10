@@ -9,7 +9,14 @@ class Solution:
         temp=listNode
 
         while list1 and list2:
-            if list1.val<list2.val:
+            if list1.val==list2.val:
+                temp.next=ListNode(list1.val)
+                temp=temp.next
+                temp.next=ListNode(list2.val)
+                
+                list2=list2.next
+                list1=list1.next
+            elif list1.val<list2.val:
                 temp.next=ListNode(list1.val)
                 list1=list1.next
             else:
