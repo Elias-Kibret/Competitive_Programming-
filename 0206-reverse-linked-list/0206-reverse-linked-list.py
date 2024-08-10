@@ -15,12 +15,18 @@ class Solution(object):
         #     curr = next
         # return prev       # Return the prev pointer to get the reverse linked list...
 
-        prev=None
+
+        prevNode=None
+
         current=head
 
         while current:
-            nextNode=current.next
-            current.next=prev
-            prev=current
-            current=nextNode
-        return prev
+            newNode=current.next
+
+            current.next=prevNode
+            prevNode=current
+
+            current=newNode
+        return prevNode
+
+      
