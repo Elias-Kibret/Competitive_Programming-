@@ -5,8 +5,15 @@ class Solution:
             if val in s:
                 return True
             s.add(val)
-            
         return False
+      
+
+      
+        
+            
+        
+    
       
        
         
+    
