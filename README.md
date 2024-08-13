@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0792-binary-search) |
 | [0983-validate-stack-sequences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0983-validate-stack-sequences) |
 | [1019-squares-of-a-sorted-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1019-squares-of-a-sorted-array) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
