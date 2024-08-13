@@ -1,21 +1,19 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        res=[]
 
-        for index,val in enumerate(nums1):
-            found=False
+        mp={val:index for index,val in enumerate(nums1)}
 
-            for num in nums2:
-                if val==num:
-                    found=True
-                if found and num>val:
-                    res.append(num)
-                    break
-            if index+1!=len(res):
-                res.append(-1)
-            
-            
+        stack=[]
+        res=[-1]*len(nums1)
+
+        for val in nums2:
+            while stack and val>stack[-1]:
+                p=stack.pop()
+                res[mp[p]]=val
+            if val in mp:
+                stack.append(val)
         return res
+      
 
             
         
