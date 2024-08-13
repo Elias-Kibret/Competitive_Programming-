@@ -1,32 +1,15 @@
 class Solution:
     def lengthOfLastWord(self, s: str) -> int:
+        s.strip()
 
-        lastCharIndex=len(s)-1
+        N=len(s)-1
         count=0
 
-        for i in range(len(s)-1,-1,-1):
-            if s[i]!=' ':
-                lastCharIndex=i
-                break
-        
-
-        for i in range(lastCharIndex,-1,-1):
-            if s[i]!=' ':
-                count+=1
-            else:
-                return count
+        while s[N]==" ":
+            N-=1
+        while N>=0 and s[N]!=" ":
+            count+=1
+            N-=1
         return count
+            
 
-
-   
-
-        
-       
-
-        
-
-
-
-
-                
-        
