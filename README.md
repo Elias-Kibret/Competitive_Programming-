@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0027-remove-element) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0073-set-matrix-zeroes) |
