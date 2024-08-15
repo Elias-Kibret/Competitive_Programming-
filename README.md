@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0169-majority-element) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
