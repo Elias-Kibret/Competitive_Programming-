@@ -1,18 +1,16 @@
 class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
-        if numRows < 1:
-            return []
+        if numRows<1:
+            return [[]]
+        result=[[1]]
 
-        nums = [[1]]
-        row_num = 0
+        for numRow in range(2,numRows+1):
+            res=[1]*numRow
 
-        while row_num < numRows - 1:
-            num = [None] * (len(nums[row_num]) + 1)
-            for i in range(len(nums)):
-                num[0] = 1
-                num[-1] = 1
-                if i != 0 or i != len(nums) - 1:
-                    num[i] = nums[row_num][i - 1] + nums[row_num][i]
-            nums.append(num)
-            row_num += 1
-        return nums
+            for i in range(1,numRow-1):
+                
+                res[i]=result[-1][i]+result[-1][i-1]
+            result.append(res)
+        
+        return result
+          
