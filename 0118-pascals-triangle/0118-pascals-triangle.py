@@ -1,16 +1,17 @@
 class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
-        if numRows<1:
-            return [[]]
-        result=[[1]]
+        if numRows==0:
+            return []
+        res=[[1]]
 
         for numRow in range(2,numRows+1):
-            res=[1]*numRow
+            result=[1]*numRow
 
             for i in range(1,numRow-1):
-                
-                res[i]=result[-1][i]+result[-1][i-1]
-            result.append(res)
+                if i>len(res[-1]):
+                    break
+                result[i]=res[-1][i-1]+res[-1][i]
+            res.append(result)
+        return res
+
         
-        return result
-          
