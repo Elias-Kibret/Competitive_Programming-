@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0605-can-place-flowers) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0645-set-mismatch) |
 | [0965-unique-email-addresses](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0965-unique-email-addresses) |
