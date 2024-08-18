@@ -13,10 +13,6 @@ class Solution:
                 hash_map[val]+=1
         
         res=min(hash_map['l']//2,hash_map['o']//2,min(hash_map.values()))
-        
-
-
-        
         return res
        
         
