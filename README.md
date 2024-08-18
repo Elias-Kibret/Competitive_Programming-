@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0624-maximum-distance-in-arrays) |
 | [0645-set-mismatch](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0792-binary-search) |
+| [0932-monotonic-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0932-monotonic-array) |
 | [0965-unique-email-addresses](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0965-unique-email-addresses) |
 | [0983-validate-stack-sequences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0983-validate-stack-sequences) |
 | [1019-squares-of-a-sorted-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1019-squares-of-a-sorted-array) |
