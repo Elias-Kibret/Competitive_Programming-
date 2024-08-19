@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0496-next-greater-element-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0496-next-greater-element-i) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0874-backspace-string-compare) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1019-squares-of-a-sorted-array) |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0374-guess-number-higher-or-lower) |
