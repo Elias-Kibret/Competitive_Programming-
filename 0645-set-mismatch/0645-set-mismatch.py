@@ -1,16 +1,20 @@
 class Solution:
     def findErrorNums(self, nums: List[int]) -> List[int]:
 
-        m=set({x for x in range(1,len(nums)+1)})
+        numSet=set({x for x in range(1,len(nums)+1)})
+        print(numSet)
         res=[]
 
         for val in nums:
-            if val in m:
-                m.remove(val)
+            if val in numSet:
+                numSet.remove(val)
             else:
                 res.append(val)
-        res.append(m.pop())
+        value=numSet.pop()
+        res.append(value)
         return res
+
+       
         
             
         
