@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1720-crawler-log-folder](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1720-crawler-log-folder) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1803-average-waiting-time) |
 | [2058-concatenation-of-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2058-concatenation-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0983-validate-stack-sequences) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1720-crawler-log-folder](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1720-crawler-log-folder) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2470-removing-stars-from-a-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0983-validate-stack-sequences) |
 | [1642-water-bottles](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1642-water-bottles) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1803-average-waiting-time) |
 | [2058-concatenation-of-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2058-concatenation-of-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2470-removing-stars-from-a-string) |
@@ -263,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
