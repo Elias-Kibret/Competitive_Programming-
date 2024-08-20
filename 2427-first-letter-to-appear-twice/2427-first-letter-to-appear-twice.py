@@ -1,13 +1,14 @@
 class Solution:
     def repeatedCharacter(self, s: str) -> str:
-        seen=[]
+        char_set=set()
+    
+       
 
         for val in s:
-            if val in seen:
+            if val in char_set:
                 return val
-            else:
-                seen.append(val)
-      
+            char_set.add(val)
+       
                         
                     
 
