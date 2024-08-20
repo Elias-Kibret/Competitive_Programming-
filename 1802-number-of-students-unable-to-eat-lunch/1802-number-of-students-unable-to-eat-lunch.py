@@ -4,10 +4,11 @@ class Solution:
         res=len(students)
         cnt=Counter(students)
         for val in sandwiches:
-            if cnt[val]==0:
+            if cnt[val]>0:
+                res-=1
+                cnt[val]-=1
+            else:
                 return res
-            res-=1
-            cnt[val]-=1
         return res
      
 
