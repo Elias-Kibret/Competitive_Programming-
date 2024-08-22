@@ -13,8 +13,8 @@ class Solution:
 
         for val in index_map.values():
             if len(val)>1:
-                mx_index=max(val)
-                mn_index=min(val)
+                mx_index=val[-1]
+                mn_index=val[0]
                 mx=max(mx_index-mn_index-1,mx)
         return mx
         
