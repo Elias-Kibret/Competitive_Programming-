@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1619-path-crossing) |
 | [1635-number-of-good-pairs](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1635-number-of-good-pairs) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2427-first-letter-to-appear-twice](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-path-crossing](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1619-path-crossing) |
 | [1720-crawler-log-folder](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1720-crawler-log-folder) |
 | [1894-merge-strings-alternately](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1894-merge-strings-alternately) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2365-percentage-of-letter-in-string) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0169-majority-element) |
 | [1297-maximum-number-of-balloons](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1635-number-of-good-pairs) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2427-first-letter-to-appear-twice](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2427-first-letter-to-appear-twice) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
