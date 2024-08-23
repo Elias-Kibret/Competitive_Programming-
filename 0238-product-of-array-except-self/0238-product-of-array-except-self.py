@@ -1,27 +1,32 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-        product=prod([x for x in nums if x!=0])
-        count_zero=sum(1 for x in nums if x==0 )
-        is_zero=True if 0 in nums else False
-
+        countZero=0
+        for val in nums:
+            if val==0:
+                countZero+=1
         res=[0]*len(nums)
+        if countZero>1:
+            return [0]*len(nums)
+        product=1
 
-        if count_zero>1:
-            return res
+        for val in nums:
+            if val!=0:
+                product*=val
+        for i in range(len(nums)):
+            if countZero==1 and nums[i]!=0:
+                res[i]=0
+            elif nums[i]==0 and countZero==1:
+                res[i]=product
+            elif nums[i]!=0 and countZero==0:
+                res[i]=product//nums[i]
+           
 
-        for index,val in enumerate(nums):
-            if is_zero:
-                if val==0:
-                    res[index]=product
-                else:
-                    res[index]=0
-            else:
-                res[index]=product//val
+            
         return res
-                
 
+     
 
-
-      
-       
+     
         
+            
+    
