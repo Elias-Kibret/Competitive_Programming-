@@ -20,13 +20,13 @@ class Solution:
         
         # return  len_single-max(hash_map.values())
 
-        # countGap = defaultdict(int)
-        countGap={0:0}
+        countGap = defaultdict(int)
+        # countGap={0:0}
 
         for row in wall:
             total=0
             for val in row[:-1]:
                 total+=val
                 countGap[total]=1+countGap.get(total,0)
-        return len(wall)-max(countGap.values())
+        return len(wall)-max(countGap.values(),default=0)
         
