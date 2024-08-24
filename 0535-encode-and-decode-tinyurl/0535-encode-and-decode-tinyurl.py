@@ -1,27 +1,28 @@
 class Codec:
 
     def __init__(self):
-        # self.encodeMap={}
-        # self.decodeMap={}
-        # self.base="http://tinyurl.com/"
-        self.dict={}
-        self.key=1
+        self.url_map={}
+        self.base_url="http://tinyurl.com"
+        self.key_length=6
+    def generateKey(self):
+        characters=string.ascii_letters +string.digits
+        print(string.ascii_letters,string.digits)
+        return "".join(random.choice(characters) for _ in range(self.key_length))
 
-    
-    
-    
+
 
     def encode(self, longUrl: str) -> str:
         """Encodes a URL to a shortened URL.
         """
-        # if longUrl not in self.encodeMap:
-        #     shortUrl=self.base+str(len(self.encodeMap)+1)
-        #     self.encodeMap[longUrl]=shortUrl
-        #     self.decodeMap[shortUrl]=longUrl
-        # return self.encodeMap[longUrl]
-        self.dict[self.key]=longUrl
-        self.key+=1
-        return self.key-1
+        key=self.generateKey()
+        while key in self.url_map:
+            key=self.generate_key()
+        self.url_map[key]=longUrl
+        return self.base_url+key
+
+
+ 
+       
 
         
 
@@ -31,8 +32,10 @@ class Codec:
         # print(self.encodeMap)
         # print(self.decodeMap)
         # return self.decodeMap[shortUrl]
-        print(self.dict)
-        return self.dict[shortUrl]
+
+        key=shortUrl[len(self.base_url):]
+        return self.url_map.get(key)
+       
 
 # Your Codec object will be instantiated and called as such:
 # codec = Codec()
