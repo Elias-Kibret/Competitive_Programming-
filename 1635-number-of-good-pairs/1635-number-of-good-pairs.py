@@ -2,9 +2,11 @@ class Solution:
     def numIdenticalPairs(self, nums: List[int]) -> int:
         
         res=0
+        count={}
 
-        for i in range(len(nums)):
-            for j in range(i+1,len(nums)):
-                if nums[i]==nums[j]:
-                    res+=1
+        for num in nums:
+            if num in count:
+                res+=count[num]
+            count[num]=1+count.get(num,0)
+        
         return res
