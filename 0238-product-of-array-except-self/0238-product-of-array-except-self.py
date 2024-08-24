@@ -17,7 +17,7 @@ class Solution:
                 res[i]=0
             elif nums[i]==0 and countZero==1:
                 res[i]=product
-            elif nums[i]!=0 and countZero==0:
+            else:
                 res[i]=product//nums[i]
            
 
