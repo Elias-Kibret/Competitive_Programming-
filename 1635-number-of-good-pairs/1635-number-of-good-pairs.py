@@ -8,5 +8,4 @@ class Solution:
             if num in count:
                 res+=count[num]
             count[num]=1+count.get(num,0)
-        
         return res
