@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0189-rotate-array) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0645-set-mismatch) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2427-first-letter-to-appear-twice](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2427-first-letter-to-appear-twice) |
