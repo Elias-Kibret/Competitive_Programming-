@@ -9,7 +9,7 @@ class Solution:
                 total+=ord(s[j])-ord("a")
                 j+=1
                 i+=1
-            print(total)
+           
             result+=chr(total%26+ord("a"))
         
         return result
