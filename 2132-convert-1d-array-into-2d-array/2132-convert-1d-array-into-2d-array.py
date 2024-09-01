@@ -5,7 +5,7 @@ class Solution:
         res=[[] for _ in range(m)]
         i=0
 
-        for index, val in  enumerate(original):
+        for  val in original:
             res[i].append(val)
             if len(res[i])==n:
                 i+=1
