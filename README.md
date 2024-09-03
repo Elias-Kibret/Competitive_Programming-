@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1894-merge-strings-alternately) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2058-concatenation-of-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2058-concatenation-of-array) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2195-time-needed-to-buy-tickets) |
 | [2470-removing-stars-from-a-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2470-removing-stars-from-a-string) |
