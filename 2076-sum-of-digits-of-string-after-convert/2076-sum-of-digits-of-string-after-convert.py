@@ -1,8 +1,9 @@
 class Solution:
     def getLucky(self, s: str, k: int) -> int:
-
-
+ 
         number_str="".join(str(ord(char)-ord('a')+1) for char in s)
+
+        
         print(number_str)
 
         for _ in range(k):
@@ -10,7 +11,9 @@ class Solution:
         return int(number_str)
 
 
-        
+
+
+
     #     # temp=""
     #     # for val in s:
     #     #     temp+=str((ord(val)-96))
