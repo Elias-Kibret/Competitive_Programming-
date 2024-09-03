@@ -1,13 +1,37 @@
 class Solution:
     def getLucky(self, s: str, k: int) -> int:
-        alphabet = {"a" : 1 , "b" : 2 , "c" : 3 , "d" : 4 , "e" : 5 , "f" : 6 , "g" : 7 \
-        , "h" : 8 , "i" : 9 , "j" : 10 , "k" : 11 , "l" : 12 , "m" : 13 , "n" : 14 , "o" : 15 \
-        , "p" : 16 , "q" : 17 , "r" : 18 , "s" : 19 , "t" : 20 , "u" : 21 , "v" : 22 , "w" : 23 \
-        , "x" : 24 , "y" : 25 , "z" : 26}
-        answ = ""
-        for i in s:
-            answ += str(alphabet[i])
-        while k != 0:
-            answ = sum(int(x) for x in str(answ))
-            k -= 1
-        return answ
+        # temp=""
+        # for val in s:
+        #     temp+=str((ord(val)-96))
+        # N=len(temp)
+        # temp=int(temp)
+        # while k>0:
+        #     res=0
+        #     for _ in range(N):
+               
+        #         res+=temp%10
+        #         temp=temp//10
+        #     temp=res
+        #     k-=1
+        # return res
+        converted=self.convert(s)
+        result=converted
+
+        for i in range(k):
+            result=self.getSum(result)
+        return int(result)
+
+
+    def convert(self,s):
+        converted=""
+        alphabet = "abcdefghijklmnopqrstuvwxyz"
+        for char in s:
+            converted+=str(alphabet.index(char)+1)
+        return converted
+        
+    def getSum(self,converted):
+        result=0
+        for char in str(converted):
+            result+=int(char)
+        return str(result)
+        
