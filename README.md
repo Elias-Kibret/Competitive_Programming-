@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0792-binary-search) |
+| [0906-walking-robot-simulation](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0906-walking-robot-simulation) |
 | [0932-monotonic-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0932-monotonic-array) |
 | [0965-unique-email-addresses](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0965-unique-email-addresses) |
 | [0983-validate-stack-sequences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0983-validate-stack-sequences) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0535-encode-and-decode-tinyurl) |
 | [0554-brick-wall](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0554-brick-wall) |
 | [0645-set-mismatch](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0645-set-mismatch) |
+| [0906-walking-robot-simulation](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0906-walking-robot-simulation) |
 | [0965-unique-email-addresses](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0965-unique-email-addresses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1297-maximum-number-of-balloons) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0874-backspace-string-compare) |
+| [0906-walking-robot-simulation](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0906-walking-robot-simulation) |
 | [0983-validate-stack-sequences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0983-validate-stack-sequences) |
 | [1642-water-bottles](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1802-number-of-students-unable-to-eat-lunch) |
