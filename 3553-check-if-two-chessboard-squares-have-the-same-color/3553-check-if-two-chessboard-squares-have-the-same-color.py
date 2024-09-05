@@ -9,7 +9,7 @@ class Solution:
         def getColor(s:str)->str:
             print(ord(s[0]))
             
-            if (ord(s[0])-97)%2==0 and int(s[1])%2==0 or (ord(s[0])-97)%2!=0 and int(s[1])%2!=0:
+            if ord(s[0])%2==0 and int(s[1])%2==0 or ord(s[0])%2!=0 and int(s[1])%2!=0:
                 print('white')
                 return "white"
             print('black')
