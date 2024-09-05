@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2058-concatenation-of-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2155-find-missing-observations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2195-time-needed-to-buy-tickets) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1642-water-bottles) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2155-find-missing-observations](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2155-find-missing-observations) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Two Pointers
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2155-find-missing-observations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2195-time-needed-to-buy-tickets) |
 | [2470-removing-stars-from-a-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2470-removing-stars-from-a-string) |
 ## Sorting
