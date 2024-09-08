@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0234-palindrome-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
