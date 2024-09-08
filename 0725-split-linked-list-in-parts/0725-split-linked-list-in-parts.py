@@ -7,12 +7,9 @@ class Solution:
     def splitListToParts(self, head: Optional[ListNode], k: int) -> List[Optional[ListNode]]:
         l=0
         temp=head
-
         while temp:
             l+=1
-            temp=temp.next
-        print(l)
-        
+            temp=temp.next    
         res=[]
         if  k>l:
             res=[1]*l+[0]*(k-l)
@@ -21,7 +18,7 @@ class Solution:
             res=[temp]*k
 
         mod=l%k
-        print(mod)
+       
         index=0
         while mod>0 and k<l:
             res[index]+=1
@@ -39,11 +36,5 @@ class Solution:
                 temp=temp.next
                 cur=cur.next
             result.append(curr_head.next)
-        print(result)
-
-            
-            
-
-
         return result
         
