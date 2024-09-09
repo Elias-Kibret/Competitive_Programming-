@@ -1,9 +1,6 @@
 class Solution:
 
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
-        if len(matrix)==0:
-            return []
-
         result=[]
         i,j=0,-1
         direction=1
