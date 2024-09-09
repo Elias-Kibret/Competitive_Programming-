@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0054-spiral-matrix) |
 | [0874-backspace-string-compare](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0874-backspace-string-compare) |
 | [0906-walking-robot-simulation](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0906-walking-robot-simulation) |
 | [0983-validate-stack-sequences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0983-validate-stack-sequences) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0073-set-matrix-zeroes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2132-convert-1d-array-into-2d-array) |
