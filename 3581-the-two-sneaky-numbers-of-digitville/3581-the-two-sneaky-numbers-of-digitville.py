@@ -1,12 +1,13 @@
 class Solution:
     def getSneakyNumbers(self, nums: List[int]) -> List[int]:
-        count=Counter(nums)
-       
-        res=[]
+        s=set()
+        result=[]
 
-        for key, val in count.items():
-            if val>1:
-                res.append(key)
-        return res
+        for val in nums:
+            if val in s:
+                result.append(val)
+            else:
+                s.add(val)
+        return result
 
         
