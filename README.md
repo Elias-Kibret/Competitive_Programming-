@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0496-next-greater-element-i) |
+| [0539-minimum-time-difference](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0554-brick-wall](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0554-brick-wall) |
 | [0605-can-place-flowers](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0605-can-place-flowers) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0441-arranging-coins) |
+| [0539-minimum-time-difference](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0539-minimum-time-difference) |
 | [1635-number-of-good-pairs](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1642-water-bottles) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0535-encode-and-decode-tinyurl) |
+| [0539-minimum-time-difference](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0539-minimum-time-difference) |
 | [0874-backspace-string-compare](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0874-backspace-string-compare) |
 | [0965-unique-email-addresses](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0965-unique-email-addresses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0451-sort-characters-by-frequency) |
+| [0539-minimum-time-difference](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1019-squares-of-a-sorted-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1741-sort-array-by-increasing-frequency) |
