@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0290-word-pattern) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0214-shortest-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0214-shortest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0535-encode-and-decode-tinyurl) |
 ## Number Theory
 |  |
@@ -474,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0241-different-ways-to-add-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
