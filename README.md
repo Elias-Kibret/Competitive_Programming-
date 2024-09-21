@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0386-lexicographical-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0386-lexicographical-numbers) |
 | [1484-linked-list-in-binary-tree](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
