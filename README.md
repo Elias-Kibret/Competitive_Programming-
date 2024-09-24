@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3194-find-words-containing-character](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3194-find-words-containing-character) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## String Matching
 |  |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0386-lexicographical-numbers) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Queue
 |  |
 | ------- |
