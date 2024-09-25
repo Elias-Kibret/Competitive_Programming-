@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2411-spiral-matrix-iv) |
 | [2486-most-frequent-even-element](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2486-most-frequent-even-element) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3194-find-words-containing-character](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3194-find-words-containing-character) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2365-percentage-of-letter-in-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2365-percentage-of-letter-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2470-removing-stars-from-a-string) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2427-first-letter-to-appear-twice](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2486-most-frequent-even-element) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0386-lexicographical-numbers) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Queue
 |  |
