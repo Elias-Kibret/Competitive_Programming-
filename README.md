@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0539-minimum-time-difference) |
 | [1635-number-of-good-pairs](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1642-water-bottles) |
+| [2083-three-divisors](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2155-find-missing-observations](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2155-find-missing-observations) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -494,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0214-shortest-palindrome) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
