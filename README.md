@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1547-destination-city) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1635-number-of-good-pairs) |
 | [1720-crawler-log-folder](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1547-destination-city](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1619-path-crossing) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-balloons](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1297-maximum-number-of-balloons) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
