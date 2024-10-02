@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0283-move-zeroes) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0347-top-k-frequent-elements) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0347-top-k-frequent-elements) |
 ## Interactive
 |  |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
@@ -462,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
