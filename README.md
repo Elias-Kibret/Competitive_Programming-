@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0965-unique-email-addresses) |
 | [0983-validate-stack-sequences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0983-validate-stack-sequences) |
 | [1019-squares-of-a-sorted-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1019-squares-of-a-sorted-array) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1256-rank-transform-of-an-array) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0983-validate-stack-sequences) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1720-crawler-log-folder](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1720-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0496-next-greater-element-i) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -520,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1484-linked-list-in-binary-tree) |
 ## Brainteaser
 |  |
@@ -542,4 +547,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0567-permutation-in-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
