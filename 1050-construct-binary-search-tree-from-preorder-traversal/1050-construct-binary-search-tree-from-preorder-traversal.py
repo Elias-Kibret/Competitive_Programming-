@@ -22,20 +22,21 @@ class Solution:
 
         '''
         root=TreeNode(preorder[0])
+        for value in preorder[1:]:
+            self.insertNodeBST(root,value)
+        return root
 
-        def insertNodeBST(node:TreeNode, val:int)->[TreeNode]:
+    def insertNodeBST(self,node:TreeNode, val:int)->[TreeNode]:
+        if not node:
+
             '''
             this is when the root node left or right is null
             '''
-            if not node:
-                return TreeNode(val)
-            if val< node.val:
-                node.left=insertNodeBST(node.left,val)
-            if val>node.val:
-                node.right=insertNodeBST(node.right,val)
-            return node
-        for value in preorder[1:]:
-            insertNodeBST(root,value)
-        return root
+            return TreeNode(val)
+        if val< node.val:
+            node.left=self.insertNodeBST(node.left,val)
+        if val>node.val:
+            node.right=self.insertNodeBST(node.right,val)
+        return node
 
             
