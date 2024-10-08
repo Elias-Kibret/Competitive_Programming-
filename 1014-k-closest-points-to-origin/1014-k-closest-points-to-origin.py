@@ -1,19 +1,23 @@
 class Solution:
     def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
 
-        result=[]
+        # result=[]
 
-        for val in points:
+        # for val in points:
             
-            res=sqrt(val[0]*val[0]+val[1]*val[1])
-            result.append([val,res])
+        #     res=sqrt(val[0]*val[0]+val[1]*val[1])
+        #     result.append([val,res])
             
-        result.sort(key=lambda x:x[1])
+        # result.sort(key=lambda x:x[1])
         
-        res=[]
-        for i in range(k):
-            res.append(result[i][0])
-        print(res)
+        # res=[]
+        # for i in range(k):
+        #     res.append(result[i][0])
+        # print(res)
 
-        return res
+
+        # return res
+
+        points.sort(key=lambda p:p[0]**2+p[1]**2)
+        return points[:k]
         
