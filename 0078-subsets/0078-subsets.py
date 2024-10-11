@@ -1,18 +1,16 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        
-        result=self.backtracking([],[],nums,0)
-        return result+[]
-
-    def backtracking(self,result,subset,nums,index)->List[List[int]]:
-        if index==len(nums):
-            result.append(subset.copy())
-            return result
-        self.backtracking(result,subset,nums,index+1)
-        subset.append(nums[index])
-        self.backtracking(result,subset,nums,index+1)
-        subset.pop(-1)
+        result=[]
+        partialSol=[]
+        self.backtrack(nums,0,partialSol,result)
         return result
-        
-        
+    def backtrack(self,nums,index,partialSol,result)->None:
+        result.append(partialSol.copy())
+
+        for i in range(index,len(nums)):
+            partialSol.append(nums[i])
+            self.backtrack(nums,i+1,partialSol,result)
+            partialSol.pop()
+
+
         
