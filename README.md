@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0059-spiral-matrix-ii) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0090-subsets-ii) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
