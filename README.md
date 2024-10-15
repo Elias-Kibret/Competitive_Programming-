@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2502-sort-the-people) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3194-find-words-containing-character](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3194-find-words-containing-character) |
+| [3195-separate-black-and-white-balls](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0624-maximum-distance-in-arrays) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3195-separate-black-and-white-balls](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
