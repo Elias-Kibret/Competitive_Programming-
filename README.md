@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0554-brick-wall) |
 | [0567-permutation-in-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0645-set-mismatch) |
+| [0778-reorganize-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0778-reorganize-string) |
 | [0906-walking-robot-simulation](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0965-unique-email-addresses) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0535-encode-and-decode-tinyurl) |
 | [0539-minimum-time-difference](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0567-permutation-in-string) |
+| [0778-reorganize-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0965-unique-email-addresses) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0645-set-mismatch) |
+| [0778-reorganize-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1019-squares-of-a-sorted-array) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0451-sort-characters-by-frequency) |
+| [0778-reorganize-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-balloons](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1297-maximum-number-of-balloons) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0624-maximum-distance-in-arrays) |
+| [0778-reorganize-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0778-reorganize-string) |
 | [1304-longest-happy-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3195-separate-black-and-white-balls](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3195-separate-black-and-white-balls) |
@@ -502,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0451-sort-characters-by-frequency) |
+| [0778-reorganize-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1304-longest-happy-string) |
