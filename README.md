@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1014-k-closest-points-to-origin) |
+| [1236-n-th-tribonacci-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1236-n-th-tribonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1642-water-bottles) |
 | [2083-three-divisors](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2083-three-divisors) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1236-n-th-tribonacci-number) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Trie
 |  |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1236-n-th-tribonacci-number) |
 ## Rolling Hash
 |  |
 | ------- |
