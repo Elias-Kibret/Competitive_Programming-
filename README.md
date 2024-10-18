@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0624-maximum-distance-in-arrays) |
 | [0645-set-mismatch](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0921-spiral-matrix-iii) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0119-pascals-triangle-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1236-n-th-tribonacci-number) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
