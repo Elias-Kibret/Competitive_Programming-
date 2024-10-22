@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0214-shortest-palindrome) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0119-pascals-triangle-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0241-different-ways-to-add-parentheses) |
