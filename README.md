@@ -600,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0207-course-schedule) |
 | [0386-lexicographical-numbers](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0386-lexicographical-numbers) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0547-number-of-provinces) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0547-number-of-provinces) |
 | [1484-linked-list-in-binary-tree](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -685,5 +687,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0547-number-of-provinces) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
