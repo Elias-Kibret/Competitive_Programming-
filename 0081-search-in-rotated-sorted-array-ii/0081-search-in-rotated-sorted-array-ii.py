@@ -1,28 +1,34 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> bool:
 
-        l,r=0,len(nums)-1
+        lower_pointer=0
+        upper_pointer=len(nums)-1
 
-        while l<=r:
-            mid=(l+r)//2
+        while lower_pointer<=upper_pointer:
+            middle_pointer=(lower_pointer+upper_pointer)//2
 
-            if target==nums[mid]:
+            if nums[middle_pointer]==target:
                 return True
-            if nums[l]==nums[mid]:
-                l+=1
+            
+            # compare if a value at lower pointer and upper pointer is equal
+            # if equal increase right pointer ,
+
+            if nums[lower_pointer]==nums[middle_pointer]:
+                lower_pointer+=1
                 continue
-            if nums[l]<nums[mid]:
-                if nums[l]<=target<nums[mid]:
-                    r=mid-1
+
+            if nums[lower_pointer]<=nums[middle_pointer]:
+
+                if nums[lower_pointer]<=target<nums[middle_pointer]:
+                    upper_pointer=middle_pointer-1
                 else:
-                    l=mid+1
+                    lower_pointer=middle_pointer+1
             else:
-                if nums[mid]<target<=nums[r]:
-                    l=mid+1
+                if nums[middle_pointer]<target<=nums[upper_pointer]:
+                    lower_pointer=middle_pointer+1
                 else:
-                    r=mid-1
-                    
+                    upper_pointer=middle_pointer-1
         return False
-        
+
 
         
