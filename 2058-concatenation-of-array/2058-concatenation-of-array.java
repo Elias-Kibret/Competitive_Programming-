@@ -1,20 +1,14 @@
 class Solution {
     public int[] getConcatenation(int[] nums) {
+        int array_length=nums.length;
 
-        int [] res=new int[nums.length*2];
-        int index=0;
-        
+        int [] concatenated_array=new int [2*array_length];
 
-        for(int val : nums){
-            res[index]=val;
-            index++;
+        for(int index=0;index<array_length;index++){
+            concatenated_array[index]=nums[index];
+            concatenated_array[index+array_length]=nums[index];
         }
-        for (int val : nums){
-            res[index]=val;
-            index++;
-        }
-        return res;
-        
+        return concatenated_array;
         
     }
 }
