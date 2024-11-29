@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0948-sort-an-array) |
 | [0965-unique-email-addresses](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0965-unique-email-addresses) |
+| [0976-minimum-area-rectangle](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0976-minimum-area-rectangle) |
 | [0983-validate-stack-sequences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0983-validate-stack-sequences) |
 | [1014-k-closest-points-to-origin](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1019-squares-of-a-sorted-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0965-unique-email-addresses) |
+| [0976-minimum-area-rectangle](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0976-minimum-area-rectangle) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1297-maximum-number-of-balloons) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0441-arranging-coins) |
 | [0539-minimum-time-difference](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0539-minimum-time-difference) |
+| [0976-minimum-area-rectangle](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0976-minimum-area-rectangle) |
 | [1013-fibonacci-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1236-n-th-tribonacci-number) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0645-set-mismatch) |
 | [0778-reorganize-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0948-sort-an-array) |
+| [0976-minimum-area-rectangle](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1256-rank-transform-of-an-array) |
@@ -706,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0976-minimum-area-rectangle](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
