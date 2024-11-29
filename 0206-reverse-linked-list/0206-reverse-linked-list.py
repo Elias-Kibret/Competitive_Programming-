@@ -1,32 +1,42 @@
-class Solution(object):
-    def reverseList(self, head):
-        # # Initialize prev pointer as NULL...
-        # prev = None
-        # # Initialize the curr pointer as the head...
-        # curr = head
-        # # Run a loop till curr points to NULL...
-        # while curr:
-        #     # Initialize next pointer as the next pointer of curr...
-        #     next = curr.next
-        #     # Now assign the prev pointer to curr’s next pointer.
-        #     curr.next = prev
-        #     # Assign curr to prev, next to curr...
-        #     prev = curr
-        #     curr = next
-        # return prev       # Return the prev pointer to get the reverse linked list...
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+
+        '''
+        The time complexity is O(n)
+        where n is the length of linkedList
+
+        The space compexity would be O(N)
+
+        '''
+
+
+        '''
+        so what I will do it is 
+        I will loop through the linkedin list 
+        till the end
+
+        
+        '''
+
+        current=head
 
         prev=None
 
-        cur=head
+        while current:
+            newNode=current.next
+            current.next=prev
 
-        while cur:
-            newNode=cur.next
-            cur.next=prev
-            prev=cur
-            cur=newNode
+            prev=current
+            current=newNode
+
         return prev
 
 
 
 
-      
+        
