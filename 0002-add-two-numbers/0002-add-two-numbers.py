@@ -5,36 +5,39 @@
 #         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        # result=ListNode(0)
-        # tail=result
-        # carry=0
+        '''
+        There are two apporaches to 
+        solve this problem
 
-        # while l1  or l2  or carry!=0:
-        #     val1=l1.val if l1 else 0
-        #     val2=l2.val if l2 else 0
-        #     total=carry+val1+val2
-        #     value=total%10
-        #     carry=total//10
-        #     tail.next=ListNode(value)
-        #     tail=tail.next
-        #     l1=l1.next if l1 else None
-        #     l2=l2.next if l2 else None
-        # return result.next
-        return self.add(l1,l2,0)
-
+        The first one is iterative 
+        the second one is Recusive
         
-    def add(self, l1: Optional[ListNode], l2: Optional[ListNode],carry:int) -> Optional[ListNode]:
-        if l1 is None and l2 is None and carry==0:
-            return None
-        val1=l1.val if l1 else 0
-        val2=l2.val if l2 else 0
+        for iterative
+        Time complexity max(len(l1,l2))
+        Space complexity max(len(11,l2))
 
-        total=val1+val2+carry
-        newDigit=total%10
-        carry=total//10
+        '''
 
-        newNode=ListNode(newDigit)
-        print(newNode)
-        newNode.next=self.add(l1.next if l1 else None , l2.next if l2 else None,carry)
-        return newNode
+        result=ListNode(None)
+        temp=result
+        L1=l1
+        L2=l2
+        carry=0
+
+        while L1 or L2:
+    
+            current_sum=(L1.val if L1 else 0 )+(L2.val if L2 else 0)+carry
+            
+            carry=current_sum//10
+            quotient=current_sum%10 if current_sum>9 else current_sum
+
+            temp.next=ListNode(quotient)
+            L1=L1.next if L1 else None
+            L2=L2.next if L2 else None
+            temp=temp.next
+        if carry!=0:
+            temp.next=ListNode(carry)
+        return result.next
+            
+            
         
