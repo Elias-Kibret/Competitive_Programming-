@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-minimum-area-rectangle](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0976-minimum-area-rectangle) |
 | [1013-fibonacci-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1014-k-closest-points-to-origin) |
+| [1048-clumsy-factorial](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1048-clumsy-factorial) |
 | [1236-n-th-tribonacci-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1236-n-th-tribonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1642-water-bottles) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0983-validate-stack-sequences) |
+| [1048-clumsy-factorial](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1048-clumsy-factorial) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1720-crawler-log-folder](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1720-crawler-log-folder) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0921-spiral-matrix-iii) |
 | [0983-validate-stack-sequences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0983-validate-stack-sequences) |
+| [1048-clumsy-factorial](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1048-clumsy-factorial) |
 | [1642-water-bottles](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1803-average-waiting-time) |
