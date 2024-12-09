@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1019-squares-of-a-sorted-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1083-two-sum-less-than-k](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1083-two-sum-less-than-k) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1256-rank-transform-of-an-array) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1019-squares-of-a-sorted-array) |
+| [1083-two-sum-less-than-k](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1083-two-sum-less-than-k) |
 | [1894-merge-strings-alternately](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-minimum-area-rectangle](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1019-squares-of-a-sorted-array) |
+| [1083-two-sum-less-than-k](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1083-two-sum-less-than-k) |
 | [1256-rank-transform-of-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1256-rank-transform-of-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0792-binary-search) |
+| [1083-two-sum-less-than-k](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1083-two-sum-less-than-k) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2392-successful-pairs-of-spells-and-potions) |
