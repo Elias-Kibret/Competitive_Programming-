@@ -1,17 +1,11 @@
-from typing import List
-from collections import Counter
-
 class Solution:
     def getLargestOutlier(self, nums: List[int]) -> int:
-        maxi = float('-inf')
-        numCount = Counter(nums)
-        s = sum(nums)
-        
-        for i in nums:
-            outlier = s - i
-            if outlier / 2 == i and numCount[i] == 1:
-                continue
-            elif numCount[outlier / 2]:
-                maxi = max(maxi, i)
-        
-        return maxi if maxi != float('-inf') else -1
+
+        ctr, sm = Counter(nums), sum(nums)
+        cands = sorted(ctr, reverse = True)
+
+        for n in cands:
+            d, m = divmod(sm - n, 2)
+            if m: continue
+                
+            if d in cands and (d != n or ctr[d] > 1): return n
