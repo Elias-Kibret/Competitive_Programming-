@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2586-longest-square-streak-in-an-array) |
+| [2638-number-of-subarrays-having-even-product](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2638-number-of-subarrays-having-even-product) |
 | [3194-find-words-containing-character](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3194-find-words-containing-character) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2491-smallest-even-multiple) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+| [2638-number-of-subarrays-having-even-product](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2638-number-of-subarrays-having-even-product) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1764-maximum-repeating-substring) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2586-longest-square-streak-in-an-array) |
+| [2638-number-of-subarrays-having-even-product](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2638-number-of-subarrays-having-even-product) |
 ## Trie
 |  |
 | ------- |
