@@ -7,14 +7,16 @@
 class Solution:
     def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         result=[]
-        self.preOrderTravelsal(root,result)
+        self.traverse(root,result)
+        
         return result
-    def preOrderTravelsal(self,node,result)->list[int]:
-        if not node:
-            return None
-        result.append(node.val)
-        self.preOrderTravelsal(node.left,result)
-        self.preOrderTravelsal(node.right,result)
 
-
-
+    def traverse(self,root:Optional[TreeNode],result:list)->None:
+        if not root:
+            return
+        
+        result.append(root.val)
+        
+        self.traverse(root.left,result)
+        self.traverse(root.right,result)
+        
