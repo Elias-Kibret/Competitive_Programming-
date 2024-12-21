@@ -654,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0199-binary-tree-right-side-view) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0199-binary-tree-right-side-view) |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0547-number-of-provinces) |
@@ -704,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0199-binary-tree-right-side-view) |
