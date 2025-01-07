@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1293-three-consecutive-odds) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1524-string-matching-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1547-destination-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1304-longest-happy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1524-string-matching-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1619-path-crossing) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1524-string-matching-in-an-array) |
 | [1764-maximum-repeating-substring](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1764-maximum-repeating-substring) |
 ## Stack
 |  |
