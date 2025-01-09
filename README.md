@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2195-time-needed-to-buy-tickets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2411-spiral-matrix-iv) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2365-percentage-of-letter-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2427-first-letter-to-appear-twice) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1524-string-matching-in-an-array) |
 | [1764-maximum-repeating-substring](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1764-maximum-repeating-substring) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
 |  |
