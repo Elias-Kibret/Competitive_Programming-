@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2411-spiral-matrix-iv) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2486-most-frequent-even-element) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2427-first-letter-to-appear-twice](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2427-first-letter-to-appear-twice) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2502-sort-the-people) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2586-longest-square-streak-in-an-array) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1304-longest-happy-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Bucket Sort
 |  |
 | ------- |
