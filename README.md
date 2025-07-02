@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3379-score-of-a-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3379-score-of-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## String Matching
 |  |
