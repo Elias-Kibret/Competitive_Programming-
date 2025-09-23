@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3960-number-of-student-replacements](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3960-number-of-student-replacements) |
 ## Hash Table
 |  |
 | ------- |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3960-number-of-student-replacements](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3960-number-of-student-replacements) |
 ## Sorting
 |  |
 | ------- |
