@@ -1,19 +1,15 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
-
-        def binary(start:int,end:int):
-            if start>=end:
-                return -1
-            m=(start+end)//2
-            if nums[m]==target:
-                return m
-            elif nums[m]<target:
-                return binary(m+1,end)
+        n=len(nums)
+        low=0
+        high=n-1
+        while low<=high:
+            mid=(low+high)//2
+            if nums[mid]==target:
+                return mid
+            elif nums[mid]<target:
+                low=mid+1
             else:
-                return binary(start,m)
-            
-
-        return binary(0,len(nums))
-
-
+                high=mid-1
+        return -1
         
