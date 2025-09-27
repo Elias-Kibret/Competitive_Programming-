@@ -1,20 +1,14 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        count=[0]*26
+        if len(s)!=len(t):
+            return False
+        s_sorted=sorted(s)
+        t_sorted=sorted(t)
 
-        for c in s:
-            count[ord(c)-ord('a')]+=1
-        for c in t:
-            count[ord(c)-ord('a')]-=1
-        for i in range(26):
-            if count[i]!=0:
+
+        for index in range(len(s_sorted)):
+            if s_sorted[index]!=t_sorted[index]:
                 return False
         return True
+ 
         
-        # if len(s) != len(t):
-        #     return False
-        
-        # for char in string.ascii_lowercase:
-        #     if s.count(char) != t.count(char):
-        #         return False
-        # return True
