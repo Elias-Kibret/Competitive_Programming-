@@ -10,10 +10,18 @@ class Solution:
         #             return True
         # return False
 
-        nums.sort()
-        print(nums)
+        # nums.sort()
+        # print(nums)
 
-        for i in range(len(nums)-1):
-            if nums[i]==nums[i+1]:
+        # for i in range(len(nums)-1):
+        #     if nums[i]==nums[i+1]:
+        #         return True
+        # return False 
+
+        nums_set= set()
+
+        for index in range(len(nums)):
+            if nums[index] in nums_set:
                 return True
-        return False 
+            nums_set.add(nums[index])
+        return False
