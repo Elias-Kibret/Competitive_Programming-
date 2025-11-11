@@ -2,12 +2,16 @@
  Do not return anything, modify nums1 in-place instead.
  */
 function merge(nums1: number[], m: number, nums2: number[], n: number): void {
-    let index =nums1.length-1
-    n=n-1
-    while (n>=0){
-        nums1[index--]=nums2[n--]
+
+    let merged_index=nums1.length-1;
+
+    for(let i=nums2.length-1;i>=0;i--){
+        nums1[merged_index]=nums2[i]
+        merged_index-=1
     }
-    nums1=nums1.sort((a,b)=>a-b)
+    nums1.sort((a,b)=>a-b)
+
+
 
     
 };
