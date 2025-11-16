@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2411-spiral-matrix-iv) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2155-find-missing-observations) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2491-smallest-even-multiple) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
