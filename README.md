@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1635-number-of-good-pairs](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1635-number-of-good-pairs) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1642-water-bottles) |
 | [2083-three-divisors](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1619-path-crossing) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1720-crawler-log-folder](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1720-crawler-log-folder) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1764-maximum-repeating-substring](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1764-maximum-repeating-substring) |
