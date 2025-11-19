@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2195-time-needed-to-buy-tickets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2411-spiral-matrix-iv) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2427-first-letter-to-appear-twice](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2427-first-letter-to-appear-twice) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2155-find-missing-observations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2195-time-needed-to-buy-tickets) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2411-spiral-matrix-iv](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2411-spiral-matrix-iv) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
