@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0128-longest-consecutive-sequence) |
+| [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0202-happy-number) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0151-reverse-words-in-a-string) |
+| [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0179-largest-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0241-different-ways-to-add-parentheses) |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0567-permutation-in-string) |
 | [1755-defuse-the-bomb](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1755-defuse-the-bomb) |
