@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2586-longest-square-streak-in-an-array) |
 | [2638-number-of-subarrays-having-even-product](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2638-number-of-subarrays-having-even-product) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3195-separate-black-and-white-balls](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3195-separate-black-and-white-balls) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2502-sort-the-people) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2586-longest-square-streak-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2586-longest-square-streak-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
