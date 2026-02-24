@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2586-longest-square-streak-in-an-array) |
 | [2638-number-of-subarrays-having-even-product](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2638-number-of-subarrays-having-even-product) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3195-separate-black-and-white-balls](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2586-longest-square-streak-in-an-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2586-longest-square-streak-in-an-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
