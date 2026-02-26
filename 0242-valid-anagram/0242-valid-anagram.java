@@ -1,38 +1,35 @@
 class Solution {
+
     public boolean isAnagram(String s, String t) {
-        if(s.length()!=t.length()){
+
+        // ✅ Step 1: If lengths are different,
+        // they can never be anagrams
+        if (s.length() != t.length()) {
             return false;
         }
 
+        // ✅ Step 2: Convert first string into character array
+        // so we can sort characters
+        char[] s1Char = s.toCharArray();
 
-        int [] count=new int[26];
-        for(char c:s.toCharArray()){
-            count[c-'a']++;
-        }
-        for(char c:t.toCharArray()){
-            count[c-'a']--;
-        }
-        for(int i=0;i<26;i++){
-            if(count[i]!=0){
-              return false;
+        // ✅ Step 3: Sort characters of first string
+        Arrays.sort(s1Char);
+
+        // ✅ Step 4: Convert second string into character array
+        char[] t1Char = t.toCharArray();
+
+        // ✅ Step 5: Sort characters of second string
+        Arrays.sort(t1Char);
+
+        // ✅ Step 6: Compare both sorted arrays character by character
+        // If any mismatch exists → not an anagram
+        for (int index = 0; index < s1Char.length; index++) {
+            if (s1Char[index] != t1Char[index]) {
+                return false;
             }
         }
-        return true;
-    //     HashMap<Character,Integer> count=new HashMap<>();
-    //     char[] strArray = s.toCharArray();
-        
-    //     for(char c: strArray){
-    //         count.put(c, count.getOrDefault(c, 0)+1);
-    //     }
-    //     strArray = t.toCharArray();
 
-    //     for(char c :strArray){
-    //         if(!count.containsKey(c) || count.get(c)==0){
-    //             return false;
-    //         }
-    //         count.put(c,count.get(c)-1);
-    //     }
-    //     return true;
-    // }
+        // ✅ Step 7: All characters matched → valid anagram
+        return true;
     }
 }
