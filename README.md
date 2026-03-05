@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0554-brick-wall](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0554-brick-wall) |
 | [0605-can-place-flowers](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0624-maximum-distance-in-arrays) |
 | [0645-set-mismatch](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0908-middle-of-the-linked-list) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0539-minimum-time-difference) |
+| [0611-valid-triangle-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0645-set-mismatch) |
 | [0778-reorganize-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0948-sort-an-array) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0792-binary-search) |
 | [1083-two-sum-less-than-k](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1083-two-sum-less-than-k) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -517,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0624-maximum-distance-in-arrays) |
 | [0778-reorganize-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0778-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
