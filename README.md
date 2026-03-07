@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1293-three-consecutive-odds) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0567-permutation-in-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1755-defuse-the-bomb) |
 ## Binary Search Tree
 |  |
