@@ -12,11 +12,9 @@ class Solution:
                 windowSum -= nums[left]   
                 left += 1
 
-            # Add current element
             window.add(nums[right])
             windowSum += nums[right]
 
-            # When window size reaches k, check and then slide
             if right - left + 1 == k:
                 best = max(best, windowSum)
                 window.remove(nums[left])
