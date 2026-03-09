@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2411-spiral-matrix-iv) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2486-most-frequent-even-element) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2427-first-letter-to-appear-twice](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2427-first-letter-to-appear-twice) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2486-most-frequent-even-element) |
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/0567-permutation-in-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/1755-defuse-the-bomb) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Elias-Kibret/Competitive_Programming-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search Tree
 |  |
 | ------- |
