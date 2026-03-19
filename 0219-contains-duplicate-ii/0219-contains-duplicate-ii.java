@@ -8,7 +8,7 @@ class Solution {
                 lookUp.remove(nums[left]);
                 left++;
             }
-            if(lookUp.contains(nums[right]) && lookUp.contains(nums[left]) && lookUp.size()<=k){
+            if(lookUp.contains(nums[right])  && lookUp.size()<=k){
                 return true;
             }
             lookUp.add(nums[right]);
