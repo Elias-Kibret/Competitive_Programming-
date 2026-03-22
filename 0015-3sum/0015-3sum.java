@@ -27,11 +27,13 @@ class Solution {
                 left++;
                 right--;
                 //this skip the second element duplicate
+                // you should compare with the left , which is with prev
                 while(left<right&&nums[left]==nums[left-1]){
                     left++;
 
                 }
                 // this skip the thrid element duplicate
+                //look you should compare with the right
                 while(left<right&&nums[right]==nums[right+1]){
                     right--;
                 }
